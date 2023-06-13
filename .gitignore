@@ -4,4 +4,4 @@ otherPPL/
 *.sln
 *.vcxproj*
 *.zip
-.gitignore
+*.gitignore
