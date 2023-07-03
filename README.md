@@ -22,7 +22,7 @@ CPP programming class in spring semester of freshmen year (2023S/1112)
 
 ### Assignments Table  
 | ASSIGNMENT | CONTANT |
-|:--|:--|
+|--|--|
 |Assignment01|Implement vector|
 |Assignment02|Implement string|
 |Assignment03|Implement & use vector (UVa10023)|
@@ -32,5 +32,3 @@ CPP programming class in spring semester of freshmen year (2023S/1112)
 |Assignment07|Implement (use) vector / list & iterator (uva10083)|
 |Assignment08|Implement deque|
 |Assignment09 & 10|Design UNI Air booking system using OOP|
-
-CONTACT ME: weichia0701@gmail.com
