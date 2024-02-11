@@ -6,7 +6,7 @@ CPP programming class in spring semester of freshmen year (2023S/1112)
 ### Course Name:
 - 程式設計（二） / Computer Programming(II)
 
-### Teacher:
+### Professor:
 - 林基成 / Ji-Cherng Lin
   
 ### Time:
