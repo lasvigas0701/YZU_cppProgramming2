@@ -1,7 +1,7 @@
 .vs/
 x64/
 otherPPL/
-source/
+Sources/
 *.sln
 *.vcxproj*
 *.zip
